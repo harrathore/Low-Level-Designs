@@ -34,5 +34,7 @@ public class AssessmentDirector{
         faculty.createAssessment();
         faculty.publishAllAssessment();
 
+        //Need to add all logs to know the flow of application
+
     }
 }
