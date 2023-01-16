@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc1a7c4c-583a-447d-87f1-0cf6482a6638" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/AssessmentDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/assessment/Assessment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/assessment/StudentAssessmentModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/enums/AssessmentStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/faculty/Faculty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/question/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/question/QuestionBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/services/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/student/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/student/StudentDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssessmentServiceLLD/users/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeGame/GameDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeGame/board/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeGame/board/ScoreBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeGame/enums/PIECE_ENUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeGame/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeGame/piece/CirclePiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeGame/piece/CrossPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeGame/piece/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeGame/users/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +24,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,7 +62,7 @@
       <recent name="SnakeAndLadderGame" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AssessmentDirector">
+  <component name="RunManager" selected="Application.GameDriver">
     <configuration name="AssessmentDirector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssessmentServiceLLD.AssessmentDirector" />
       <module name="SnakeAndLadderGame" />
@@ -92,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GameDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToeGame.GameDriver" />
+      <module name="SnakeAndLadderGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TicTacToeGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="SnakeAndLadderGame" />
@@ -101,6 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GameDriver" />
         <item itemvalue="Application.AssessmentDirector" />
         <item itemvalue="Application.GameDirector" />
         <item itemvalue="Application.Main" />
