@@ -62,7 +62,7 @@
       <recent name="SnakeAndLadderGame" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GameDriver">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AssessmentDirector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssessmentServiceLLD.AssessmentDirector" />
       <module name="SnakeAndLadderGame" />
@@ -111,10 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GameDriver" />
-        <item itemvalue="Application.AssessmentDirector" />
-        <item itemvalue="Application.GameDirector" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AssessmentDirector" />
+        <item itemvalue="Application.GameDriver" />
+        <item itemvalue="Application.GameDirector" />
       </list>
     </recent_temporary>
   </component>
